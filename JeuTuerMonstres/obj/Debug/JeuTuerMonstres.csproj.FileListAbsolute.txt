@@ -1,0 +1,14 @@
+C:\Users\Brice\source\repos\JeuTuerMonstres\JeuTuerMonstres\bin\Debug\JeuTuerMonstres.exe.config
+C:\Users\Brice\source\repos\JeuTuerMonstres\JeuTuerMonstres\bin\Debug\JeuTuerMonstres.exe
+C:\Users\Brice\source\repos\JeuTuerMonstres\JeuTuerMonstres\bin\Debug\JeuTuerMonstres.pdb
+C:\Users\Brice\source\repos\JeuTuerMonstres\JeuTuerMonstres\obj\Debug\JeuTuerMonstres.csprojAssemblyReference.cache
+C:\Users\Brice\source\repos\JeuTuerMonstres\JeuTuerMonstres\obj\Debug\JeuTuerMonstres.csproj.CoreCompileInputs.cache
+C:\Users\Brice\source\repos\JeuTuerMonstres\JeuTuerMonstres\obj\Debug\JeuTuerMonstres.exe
+C:\Users\Brice\source\repos\JeuTuerMonstres\JeuTuerMonstres\obj\Debug\JeuTuerMonstres.pdb
+C:\Users\Home\source\repos\JeuTuerMonstres\JeuTuerMonstres\bin\Debug\JeuTuerMonstres.exe.config
+C:\Users\Home\source\repos\JeuTuerMonstres\JeuTuerMonstres\bin\Debug\JeuTuerMonstres.exe
+C:\Users\Home\source\repos\JeuTuerMonstres\JeuTuerMonstres\bin\Debug\JeuTuerMonstres.pdb
+C:\Users\Home\source\repos\JeuTuerMonstres\JeuTuerMonstres\obj\Debug\JeuTuerMonstres.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\JeuTuerMonstres\JeuTuerMonstres\obj\Debug\JeuTuerMonstres.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\JeuTuerMonstres\JeuTuerMonstres\obj\Debug\JeuTuerMonstres.exe
+C:\Users\Home\source\repos\JeuTuerMonstres\JeuTuerMonstres\obj\Debug\JeuTuerMonstres.pdb
